@@ -32,6 +32,11 @@ The analysis is used to create a neural network model, a guide to the best inves
     - Second attempt at optimizing the model: loss is 64.7% and accuracy is 60.2%. Did not achieve desired performance.
     - Third attempt at optimizing the model: loss is 70.1% and accuracy is 53.8%. Did not achieve desired performance.
 
+preview of the Second attempt optimization:
+<img src:"https://github.com/mehill37/Neural_Network_Charity_Analysis/blob/edbd7674433ada105c0ef8d430de59281214870c/images/optimization.png">
+
+preview of the Second attempt loss and accuracy scores:
+<img src:"https://github.com/mehill37/Neural_Network_Charity_Analysis/blob/edbd7674433ada105c0ef8d430de59281214870c/images/optim_accuracy_2.png">
 
 - What steps did you take to try and increase model performance?
     - increasing the parameters by icreasing the neurons in each hidden layer.
